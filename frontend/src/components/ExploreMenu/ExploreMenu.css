@@ -52,4 +52,22 @@
         max-width: 100%;
         font-size: 14px;
     }
+    .explore-menu-list {
+        gap: 16px;
+        padding: 0 8px;
+        margin: 12px 0;
+        overflow-x: auto;
+    }
+    .explore-menu-list-item img {
+        width: 18vw;
+        min-width: 60px;
+        max-width: 90px;
+    }
+    .explore-menu-list-item p {
+        font-size: 15px;
+    }
+    .explore-menu {
+        gap: 12px;
+        padding: 0 4px;
+    }
 }

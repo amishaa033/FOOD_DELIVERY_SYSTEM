@@ -50,5 +50,15 @@
     }
     .header-contents button{
         padding: 2vw 4vw;
+        font-size: 12px;
+        min-width: 90px;
+        min-height: 32px;
+    }
+    .header-contents h2 {
+        font-size: 18px;
+    }
+    .header {
+        background-position: center;
+        background-size: cover;
     }
 }
